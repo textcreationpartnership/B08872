@@ -1,0 +1,155 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The cruel mother; being a true relation of the bloody murther committed by M. Cook, upon her dearly beloved child; with the causes wherefore she did it : her occasional speeches to several friends and others that came to visit her in prison, vvith the manner of her execution and demeanour there.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1670</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B08872</idno>
+            <idno type="STC">Wing C7420</idno>
+            <idno type="STC">ESTC R215647</idno>
+            <idno type="EEBO-CITATION">64551139</idno>
+            <idno type="OCLC">ocm 64551139</idno>
+            <idno type="VID">184500</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B08872)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 184500)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2865:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The cruel mother; being a true relation of the bloody murther committed by M. Cook, upon her dearly beloved child; with the causes wherefore she did it : her occasional speeches to several friends and others that came to visit her in prison, vvith the manner of her execution and demeanour there.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by W. R.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1670.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Cook, Mary, d. 1670 --  Trials, litigation, etc.</term>
+               <term>Trials (infanticide) --  England --  Early works to 1800.</term>
+               <term>Executions and executioners --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-11</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-11</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:184500:1" rendition="simple:additions"/>
+            <p>The Cruel Mother; BEING A true Relation of the Bloody MURTHER Committed by <hi>M. Cook,</hi> upon her Dearly beloved Child; with the cauſes where<g ref="char:EOLhyphen"/>fore ſhe did it: Her occaſional ſpeeches to ſeveral Friends and others that came to viſit her in Priſon, VVith the manner of her Execution and demeanour there.</p>
+            <figure>
+               <figDesc>printer's or publisher's device</figDesc>
+            </figure>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>W. R.</hi> 1670.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:184500:2"/>
+            <pb n="3" facs="tcp:184500:2"/>
+            <head>An Exact and True Narrative of the Horrid, Inhumane, and Unnatural MURDER Committed by <hi>M. Cook</hi> upon the Child of her own Bowels.</head>
+            <p>OF all ſins there is no ſin cries louder in the ears of God and Man than that of ſhedding of Bloud; innocent Bloud, What a Hainous, Inhumane, Barbarous and wicked ſin it is? and ſuch was the ſin here, as hereafter will more largely appear in the inſuing Diſcourſe.</p>
+            <p>The ſad occaſion of this Relation is one <hi>Mary Cook,</hi> the Wife of <hi>Thomas Cook,</hi> living in <hi>Cloath-Fair</hi> near <hi>Smith<g ref="char:EOLhyphen"/>field,</hi> a Mother of three Children, two Sons and one Daughter, which Daughter was the Child of her chief affection, and the ſubject of her chief affliction, upon whom ſhe pitched to act this horrid Murther, ſhe is aged about thirty ſeven years, of a very ſilent melancholly temper, troubling her thoughts too much with care for the things of this world (as with bitter ſighs ſhe hath often ſince ac<g ref="char:EOLhyphen"/>knowledged: She was very ſubject to conceive diſcontents to her ſelf, and to conſtrue moſt paſſages from her Rela<g ref="char:EOLhyphen"/>tions to the worſt ſenſe, (whether really or ſeemingly intended, we will leave to her Relations (who are more nearly concerned) to conſider how little, or how far they might contribute to the encreaſe of her melancholly Spirit, and ſo haſten her to this Ruine.) We will not charge
+<pb n="4" facs="tcp:184500:3"/>them with any thing, only relate what ſhe hath after in private and publick confeſſed to ſeveral that are ready to give a very juſt account (if occaſion require) <hi>Viz.</hi> That her conceived diſcontents at the unkindneſs of her Relati<g ref="char:EOLhyphen"/>ons (as ſhe ſuppoſed) did make her grow ſo big with melancholly, (a good bait for the Devil to work upon) Her natural life grew a burden to her, and her ſpiritual life ſhe grew more and more mindleſs of. So prevalent are the Devils temptations when he meets with ſuch melan<g ref="char:EOLhyphen"/>cholly ſubjects; and when he had found this way would work about his purpoſes to her deſtruction, he was not wanting to ſtir up inſtruments to haſten and heighten the ſame; So at laſt ſhe comes to enter into ſecret counſel with the Devil and her own wicked Heart, how to bring her life to an end: At laſt ſhe reſolves upon drowning her ſelf, and had attempted it many months agon, but being providentially met by ſome that knew her, was diſap<g ref="char:EOLhyphen"/>pointed of this ſinful and ſad purpoſe: Some months after ſhe reſolves upon hanging her ſelf, and to that end got ſeveral Sceans of Silk, and in her own Seller was going to act that dreadful Tragedy, but her Husband providenti<g ref="char:EOLhyphen"/>ally approaching prevented her.</p>
+            <p>And it is worthy of note, for all that read this ſad ſtorie that ſtill the Devil prevailed with her to keep his Counſel from the knowledge of ſuch friends as might any way diſ<g ref="char:EOLhyphen"/>courage her, in the proſecution of this wicked deſign, by which means he had her linked the faſter to his chain, in order to her deſtruction: For it is more than probable, had ſhe made her temptations know to ſome ſober Chri<g ref="char:EOLhyphen"/>ſtian, means with God and her Heart might have been uſed, to have plucked her out of this ſnare of the Devil, but ſhe ſtill perſiſts and now at l<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſt reſolves to cut her own throat, and but a day or two before ſhe acted this laſt
+<pb n="5" facs="tcp:184500:3"/>Tragedy, it is obſervable, ſhe a little gave vent to her in<g ref="char:EOLhyphen"/>ſide; had wisdom and Gods bleſſing been obſerved, to have made ſome narrow ſearch into the nature of what ſhe uttered. For upon ſome occaſion of her Husbands being to accompany ſome perſons upon ſuch occaſions as ſhe ſeemed not liking to, did thus reply: if he went, ſhe would then throw her Child in the fire, namely, that little Babe ſhe ſoon after murdered, but by his comply<g ref="char:EOLhyphen"/>ance at this time, ſhe was prevented: But the devil does not leave her, he has her too faſt to loſe his labour; for on the ſixth of <hi>February,</hi> being the Lords day 1670/69 between eight and nine in the morning, ſhe having over-night lodg<g ref="char:EOLhyphen"/>ed a knife about her with an intent, (as ſhe hath often ſince confeſſed) to cut her own throat the next opportunity, riſing in the morning ſhe goes down Stairs to make her Fire, and then whets her knife to make it more ready, then puts it to her throat making ſome impreſſion upon her skin, and then with-drew her hand again: Now the Devil that is never wanting to help forward wicked pur<g ref="char:EOLhyphen"/>poſes, puts her upon a freſh coſultation, what ſhould be<g ref="char:EOLhyphen"/>come of that Child ſhe ſo much loved above the other two Children when ſhe was dead, upon this ſhe conceiv<g ref="char:EOLhyphen"/>ed better to rid that out of this world firſt, ſo ſhould ſhe by that means come to her own end, upon which ſhe goes up ſtairs, and finding her Husband abſent, ſhe with great violence took the Babe out of the Cradle, a Daughter of about two years and a quarter old and cut its throat, in a ghaſtful manner, the poor Babe (as ſhe hath related) gave three or four lamentable ſigh<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and ſo departed; immedi<g ref="char:EOLhyphen"/>ately ſhe threw it from her upon the fire-Hearth, and then paſſionately ſtamped with her feet; her Husband haſtily running up ſtairs, and at the door asking, <hi>Wife, what is the matter?</hi> She dolefully replies, ſhe had given the Child
+<pb n="6" facs="tcp:184500:4"/>its breakfaſt, no ſooner had ſhe ſpoke, but he beheld with an afflicted ſpirit his Babe lie bleeding upon the ground, in which amaze, breaking out into great lamentation, a Lodger and Neighbors approach, and a Chyrurgeon ſent for, but all in vain.</p>
+            <p>A Conſtable is ſent for to ſecure the Murtherer, by whom ſhe is carried before Sir <hi>W. Turner,</hi> who hearing the Fact with great amazement, committed her to Newgate, where ſhe remained till the Seſſions came, in which time ſhe miſcarried, and was in all likelihood in ſuch a condi<g ref="char:EOLhyphen"/>tion as might put a period to her life before Seſſions came. But Divine Providence had otherwiſe decreed, ſhe muſt live to ſatisfie the juſtice of the Law, and be a Terror to deter all others from being guilty of the like Crime: nay, if they have any Grace, from having any thoughts of ſo horrid a Blood-guiltineſs.</p>
+            <p>During the time of her being in <hi>Newgate,</hi> ſhe continued a woman much dejected in ſpirit and deeply afflicted with melancholy, notwithſtanding the utmoſt of means was uſed both for body and ſoul, as if ſo be God had marked her for an abject of terror to all ſurviving Mothers, both that were ſpectators, and alſo for the future that ſhall hear of, or read this bloody Narrative, her obdurating and im<g ref="char:EOLhyphen"/>penetrable heart, not being capable to receive that daily ſupply of comfort or conſolation which ſhe had, did much diſcourage the faithful Miniſters and People of God, who was very earneſt with her and God in her behalf; always very ſlow and backward in ſpeech to every thing of good unleſs to the confeſſion of the unnatural, inhumane, noto<g ref="char:EOLhyphen"/>rious, material bowelleſs cut-throat murther: Upon which at the firſt, rather inclined to deſperation, at laſt did believe there was mercy enough, and pardoning grace in the Lord Jeſus Chriſt, but ſhe could find in her ſelf no
+<pb n="7" facs="tcp:184500:4"/>comfort of it, though deſires after it; all this while ſo far forth as her wicked companions and fellow Priſoners did not by their graceleſs diſcourſes, and unſeemly actions prevent; ſhe implyed in duty: but ſhe told us ſhe could only word it and not heart it: Another time told us that if ſhe could be but once more ſenſible of the light of Gods countenance being revealed to her, ſhe did not care if ſhe died the next moment (which was the moſt honeſt ex<g ref="char:EOLhyphen"/>preſſion that ever we heard from her,) For ſaith ſhe, the reproachful, ignominious bodily death I do not fear, it is my due debt I ought to pay; but the death of my Soul I dread. She told us a day or two after ſhe had received ſome comfort, but ſoon eclipſed, and loſt again by reaſon of melancholy vapours, her intellects being much im<g ref="char:EOLhyphen"/>pair'd, and the Devil improving the preſent advantage; but her uſual requeſt of Miniſters and the People of God was not voluntarily, but as the diſcourſe of others made way and exhauſted it; Thus you have an account of her quotidial and dayly temper. The Seſſions now beginning at Juſtice Hall in the Old Baily, on the 21. <hi>Feb.</hi> She was there Arraigned and Caſt for her life.</p>
+            <p>By the favour of the Bench, ſhe had a weeks time granted her to prepare for her death; and to die on <hi>Wed<g ref="char:EOLhyphen"/>neſday</hi> the ſecond of <hi>March</hi> in <hi>Smithfield,</hi> over againſt <hi>Cloth-fair</hi> Gate, where formerly ſhe lived, and committed that out-crying unparallel'd Murther.</p>
+            <p>Dr. <hi>St.</hi> a very Able and Reverend Divine; was had to her on <hi>Monday</hi> before ſhe ſuffered, both to ſee how ſhe was prepared for Death, and to underſtand the truth as to what might be the occaſion of her committing that horrid ſin; and that Religion might not be aſperſed. He demanded ſolemnly and ſeriouſly, whether that was the occaſion of it, and that ſhe would give the truth of it
+<pb n="8" facs="tcp:184500:5"/>as a dying woman; She anſwered no, there was no ſuch thing: but being preſt farther with the ſame motives ſaid, ſhe did not believe her Relations to love her ſo well as they ought, and ſhe being under ſome diſtempers of body a week or a fortnight before, and they would not ſeek out for help; She did it out of revenge to them which ſhe did intend to have done to her ſelf, but going up ſtairs with the Knife, found the innocent Babe (the De<g ref="char:EOLhyphen"/>vil turning the temptation) <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>leep in the Cradle, took it out and moſt barbarouſly Cut the Throat of it, it giving one ſhrike, and lifting up the eyes to ſee from whom the the fatal bloody ſtroke came, and ſo became the Mothers ſinful Sacrifice.</p>
+            <p>
+               <hi>March</hi> 1. Being the day before her Execution, her Husband being gone from her moſt part of the Afternoon, being jealous he was gone to ſeek her Pardon; ſhe decla<g ref="char:EOLhyphen"/>red to a friend that was with her, That ſhe did not deſire a Pardon, but if ſhe could obtain a Pardon in Chriſt, it was all ſhe deſired; continuing very chearful all night, with breathing after Chriſt, and begging Pardon for her ſins. After half an hours reſt, which was all ſhe took in the night, her Husband asked her how it was with her, ſhe anſwered, not ſo well to boaſt, ſhe found greater diſ<g ref="char:EOLhyphen"/>coveries of Chriſt to her poor Soul, then ſhe heretofore had and was more chearful and freer to diſcourſe of her condi<g ref="char:EOLhyphen"/>tion this day, then any day before, ſince ſhe came nto Priſon.</p>
+            <p>On the day of her Execution, reading <hi>Iſaiah</hi> 43. <hi>ver.</hi> 1. <hi>But now thus ſaith the Lord that created the<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> O</hi> Jacob, <hi>and he that formed thee, O</hi> Iſrael, <hi>Fear not: For I have redeemed thee, I have called thee by thy name, thou art mine.</hi> She ſaid to her Husband, what hath the Lord Redeemed me, ſuch a ſinner as <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> am, redeemed?</p>
+            <p>Being asked by her Husband when ſhe was going into the Cart, If ſhe would not take her Bible with her, ſhe anſwered ſhe could not boaſt to the world, ſhe deſired a Pardon from Chriſt in her heart, and ſaid ſhe freely forgave every one, and deſired forgivneſs of all, &amp; that they would pray to God for her, that he would forgive her. Being brought to the place of, Execution in Smithfield, a Gibbet being Erected at Cloth fair Gate after her Prayers, and Prayers made for her, and many good ex<g ref="char:EOLhyphen"/>preſſions uttered by her, the Executioner did his Office. She being obſerved to lift up her hands after ſhe was turned off, ſo long as ſhe was judged to have any ſenſe left in her.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
